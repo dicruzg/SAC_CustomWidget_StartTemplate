@@ -12,14 +12,14 @@
         {
 			"kind": "main",
 			"tag": "com-sap-sample-helloworld3",
-            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/webcomponent.js",
+            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/helloworld/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
         },
 		{
 			"kind": "styling",
 			"tag": "com-sap-sample-helloworld3-aps",
-            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/aps_webcomponent.js",
+            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/helloworld/aps_webcomponent.js",
 			"integrity": "",
             "ignoreIntegrity" : true
 		}
