@@ -1,13 +1,13 @@
 {
-	"id": "com.demo.gauge",
-	"version": "1.0.0",
 	"name": "Demo Gauge",
 	"description": "A gauge demo",
+	"eula": "",
+	"vendor": "",
+	"license": "",
+	"id": "com.demo.gauge",
 	"newInstancePrefix": "Gauge",
+	"version": "1.0.0",
 	"icon": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/icon.png",
-	"vendor": "Demo",
-	"eula": "EULA",
-	"license": "1.0",
 	"webcomponents": [
 		{
 			"kind": "main",
@@ -35,7 +35,7 @@
 		"value": {
 			"type": "number",
 			"description": "Gauge value",
-			"default": "0"
+			"default": 0
 		},
 		"info": {
 			"type": "string",
