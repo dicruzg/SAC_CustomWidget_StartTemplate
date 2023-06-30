@@ -1,1 +1,1 @@
-# SAC_CustomWidget_HelloWorld_Start
+# ValiData GmbH Custom Widget Template 
