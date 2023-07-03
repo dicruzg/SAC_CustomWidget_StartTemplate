@@ -6,7 +6,7 @@
 	"license": "",
 	"id": "com.demo.gauge",
 	"newInstancePrefix": "Gauge",
-	"version": "1.0.0",
+	"version": "0.0.1",
 	"icon": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/icon.png",
 	"webcomponents": [
 		{
