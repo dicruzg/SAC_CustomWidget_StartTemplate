@@ -7,7 +7,7 @@
 	"id": "com.sap.sample.helloworld3",
 	"newInstancePrefix": "HelloWorld3",
 	"version": "0.0.1",
-	"icon": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/icon.png",
+	"icon": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/icon.png",
 	"webcomponents": [
         {
 			"kind": "main",
