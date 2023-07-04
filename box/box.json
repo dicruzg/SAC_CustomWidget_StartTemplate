@@ -40,12 +40,12 @@
 		"info": {
 			"type": "string",
 			"description": "Gauge info",
-			"default": "Fortschrittsbalken"
+			"default": "Kreditsituation"
 		},
 		"color": {
 			"type": "string",
 			"description": "Text Color info",
-			"default": "#791a38"
+			"default": "#00358e"
 		},
 		"width": {
 			"type": "integer",

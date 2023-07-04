@@ -5,10 +5,8 @@
 		:host {
 			border-radius: 10px;
 			border-width: 2px;
-			border-color: #791a38;
+			border-color: #00358e;
 			border-style: solid;
-			width: 320px,
-			height: 200px,
 			display: block;
 		} 
 
