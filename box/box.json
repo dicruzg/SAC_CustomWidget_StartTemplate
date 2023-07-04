@@ -35,12 +35,12 @@
 		"value": {
 			"type": "number",
 			"description": "Gauge value",
-			"default": 0
+			"default": 88
 		},
 		"info": {
 			"type": "string",
 			"description": "Gauge info",
-			"default": ""
+			"default": "Fortschrittsbalken"
 		},
 		"color": {
 			"type": "string",
@@ -49,11 +49,11 @@
 		},
 		"width": {
 			"type": "integer",
-			"default": 300
+			"default": 160
 		},
 		"height": {
 			"type": "integer",
-			"default": 300
+			"default": 100
 		}
 	},
 	"methods": {
