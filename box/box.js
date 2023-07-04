@@ -7,8 +7,8 @@
 			border-width: 2px;
 			border-color: #791a38;
 			border-style: solid;
-			width: 160px,
-			height: 100px,
+			width: 320px,
+			height: 200px,
 			display: block;
 		} 
 
