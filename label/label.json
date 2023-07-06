@@ -1,25 +1,25 @@
 {
-	"name": "ValiData Widget",
-	"description": "Template Widget von Validata GmbH.",
+	"name": "VLabel Widget",
+	"description": "Label Widget von Validata GmbH.",
 	"eula": "",
 	"vendor": "",
 	"license": "",
-	"id": "com.sap.sample.helloworld3",
-	"newInstancePrefix": "HelloWorld3",
-	"version": "0.0.1",
+	"id": "de.validata.widget.label",
+	"newInstancePrefix": "VLabel",
+	"version": "1.0.0",
 	"icon": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/icon.png",
 	"webcomponents": [
         {
 			"kind": "main",
-			"tag": "com-sap-sample-helloworld3",
-            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/helloworld/webcomponent.js",
+			"tag": "de-validata-widget-label",
+            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/label/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
         },
 		{
 			"kind": "styling",
-			"tag": "com-sap-sample-helloworld3-aps",
-            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/helloworld/aps_webcomponent.js",
+			"tag": "de-validata-widget-label-aps",
+            "url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/label/aps_webcomponent.js",
 			"integrity": "",
             "ignoreIntegrity" : true
 		}

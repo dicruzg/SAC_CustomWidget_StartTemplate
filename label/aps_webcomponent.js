@@ -14,7 +14,7 @@
 		</form>
 	`;
 
-	class HelloWorldAps extends HTMLElement {
+	class LabelAps extends HTMLElement {
 		constructor() {
 			super();
 			this._shadowRoot = this.attachShadow({mode: "open"});
@@ -42,5 +42,5 @@
 		}
 	}
 
-customElements.define("com-sap-sample-helloworld3-aps", HelloWorldAps);
+customElements.define("de-validata-widget-label-aps", LabelAps);
 })();

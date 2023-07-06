@@ -1,31 +1,31 @@
 {
-	"name": "Demo Gauge",
-	"description": "A gauge demo",
+	"name": "VGauge Widget",
+	"description": "Gauge Widget von Validata GmbH.",
 	"eula": "",
 	"vendor": "",
 	"license": "",
-	"id": "com.demo.gauge",
-	"newInstancePrefix": "Gauge",
+	"id": "de.validata.widget.gauge",
+	"newInstancePrefix": "VGauge",
 	"version": "0.0.1",
 	"icon": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/icon.png",
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-demo-gauge",
+			"tag": "de-validata-widget-gauge",
 			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/box.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
-			"tag": "com-demo-gauge-sps",
-			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/box_sps.js",
+			"tag": "de-validata-widget-gauge-aps",
+			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/gauge/aps_webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demo-box-bps",
+			"tag": "de-validata-widget-gauge-bps",
 			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
