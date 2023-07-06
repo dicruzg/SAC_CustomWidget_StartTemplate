@@ -12,7 +12,7 @@
 		{
 			"kind": "main",
 			"tag": "de-validata-widget-gauge",
-			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/box.js",
+			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/gauge/webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
@@ -25,8 +25,8 @@
 		},
 		{
 			"kind": "builder",
-			"tag": "de-validata-widget-gauge-bps",
-			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/box/box_bps.js",
+			"tag": "de-validata-widget-gauge-ape",
+			"url": "https://dicruzg.github.io/SAC_CustomWidget_StartTemplate/gauge/ape_webcomponent.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
@@ -35,7 +35,7 @@
 		"value": {
 			"type": "number",
 			"description": "Gauge value",
-			"default": 88
+			"default": 68
 		},
 		"info": {
 			"type": "string",

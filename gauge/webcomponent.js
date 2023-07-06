@@ -8,7 +8,7 @@
 			border-color: #00358e;
 			border-style: solid;
 			display: block;
-		} 
+		}
 
 		body {
 		  background: #fff;
@@ -56,7 +56,7 @@
 		</div>
 	`;
 
-	class Box extends HTMLElement {
+	class Gauge extends HTMLElement {
 		constructor() {
 			super(); 
 			let shadowRoot = this.attachShadow({mode: "open"});
@@ -120,5 +120,5 @@
 		}
 	}
 	
-	customElements.define("com-demo-gauge", Box);
+	customElements.define("de-validata-widget-gauge", Gauge);
 })();
